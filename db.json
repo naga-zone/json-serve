@@ -1,9 +1,11 @@
-[
-  {
-  	"id":1,	
-	"error": "",
-	"source": "",
-	"date": "",
-	"issueResolved": false
-  }
-]
+{
+	"issues": [
+		{
+			"id": 1,
+			"error": "",
+			"source": "",
+			"date": "",
+			"issueResolved": false
+		}
+	]
+}
